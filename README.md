@@ -11,7 +11,7 @@ The dashboard analyzes customer behavior, product performance, purchasing patter
 
 # Dashboard Pages
 
-Performed data preparation using **Power Query** before building analytical dashboards.
+Performed data preparation using **Power Query** before building analytical dashboards
 - Cleaned **24,404 retail transaction records**
 - Validated invoice records
 - Prepared data model for reporting
