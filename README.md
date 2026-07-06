@@ -1,15 +1,9 @@
 # 🛒 E-Commerce Sales & Customer Analytics Dashboard | Power BI
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-success?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Analytics-purple?style=for-the-badge)
-
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-This project presents an end-to-end **E-Commerce Analytics Dashboard** developed in **Power BI** to transform raw transactional data into meaningful business insights.
+This project presents an end-to-end **E-Commerce Analytics Dashboard** developed in **Power BI** to transform raw transactional data into meaningful business insights
 
 The dashboard analyzes customer behavior, product performance, purchasing patterns, quantity distribution, shipping costs, geographic sales, and market basket relationships, enabling data-driven business decisions.
 
